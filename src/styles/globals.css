@@ -16,6 +16,11 @@
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
+
+    --layout-padding: 8px;
+    @media (min-width:768px) {
+      --layout-padding: 24px;
+    }
   }
 }
 
