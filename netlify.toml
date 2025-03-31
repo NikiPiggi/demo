@@ -1,4 +1,4 @@
 [[redirects]]
 from = "/*"
-to = "/src/app/layout.tsx"
+to = "src/app/layout.tsx"
 status = 200
